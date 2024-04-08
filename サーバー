@@ -1,0 +1,57 @@
+NO LOG FILE! - setting up server logging...
+
+[2024-03-20 16:17:32:538 INFO] Starting Server
+
+[2024-03-20 16:17:32:538 INFO] Version: 1.20.71.01
+
+[2024-03-20 16:17:32:538 INFO] Session ID: e3ac2292-735f-4d1c-9eca-a75b1ab05495
+
+[2024-03-20 16:17:32:538 INFO] Build ID: 22730292
+
+[2024-03-20 16:17:32:538 INFO] Branch: r/20_u7
+
+[2024-03-20 16:17:32:538 INFO] Commit ID: 42039c71c23561e02d99b28a8bfb34091a61cadf
+
+[2024-03-20 16:17:32:538 INFO] Configuration: Publish
+
+[2024-03-20 16:17:32:539 INFO] Level Name: world
+
+[2024-03-20 16:17:32:541 INFO] No CDN config file found for dedicated server
+
+[2024-03-20 16:17:32:541 INFO] Game mode: 1 Creative
+
+[2024-03-20 16:17:32:541 INFO] Difficulty: 0 PEACEFUL
+
+[2024-03-20 16:17:32:542 WARN] Content logging to console is disabled. Enable it with content-log-console-output-enabled=true in server.properties
+
+[2024-03-20 16:17:33:956 INFO] Opening level 'worlds/world/db'
+
+[2024-03-20 16:17:34:602 INFO] IPv4 supported, port: 26574: Used for gameplay
+
+[2024-03-20 16:17:34:602 INFO] IPv6 not supported
+
+[2024-03-20 16:17:34:611 INFO] Server started.
+
+[2024-03-20 16:17:34:611 INFO] ================ TELEMETRY MESSAGE ===================
+
+[2024-03-20 16:17:34:611 INFO] Server Telemetry is currently not enabled. 
+
+[2024-03-20 16:17:34:611 INFO] Enabling this telemetry helps us improve the game.
+
+[2024-03-20 16:17:34:611 INFO] 
+
+[2024-03-20 16:17:34:611 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+
+[2024-03-20 16:17:34:611 INFO] to the server.properties file in the handheld/src-server directory
+
+[2024-03-20 16:17:34:611 INFO] ======================================================
+
+[2024-03-20 16:17:34:706 INFO] IPv4 supported, port: 19132 used for LAN discovery
+
+[2024-03-20 16:17:34:706 INFO] IPv6 not supported
+
+stop
+
+[2024-03-20 16:22:58:912 INFO] Server stop requested.
+
+[2024-03-20 16:22:58:939 INFO] Stopping server...
